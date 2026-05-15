@@ -1,3 +1,5 @@
+
+link realeses sha256:f0b4e0e5a96900337ce4192fdcbe2a26d837052b724f2479e3fef2bfcab57bc1
 # 🗺️ Gerador de Mapas de Densidade (KDE) para Análise Espacial
 
 ## 🛑 Descrição do Problema Real
